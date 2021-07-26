@@ -1,0 +1,13 @@
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.csprojAssemblyReference.cache
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.Form1.resources
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.Properties.Resources.resources
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.csproj.GenerateResource.cache
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\sssAPITester\bin\Debug\sssAPITester.exe
+D:\WORK\Projects\sssAPITester\bin\Debug\sssAPITester.pdb
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.exe
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.pdb
+D:\WORK\Projects\sssAPITester\bin\Debug\sssAPITester.exe.config
+D:\WORK\Projects\sssAPITester\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\sssAPITester\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\sssAPITester\obj\Debug\sssAPITester.csproj.CopyComplete
